@@ -1,0 +1,1 @@
+include ':app', ':p0031firstprojetct', ':p0041basicviews', ':p0051layoutfiles', ':P0061layouts', ':p0071layoutprop', ':p0081viewbyid', ':p0091clicklistener', ':p0101listeners', ':p0102activitylistener', ':p0111resvalues'

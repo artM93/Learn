@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="Q:\android\Android Studio\gradle\gradle-2.4" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/P0061layouts" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/p0031firstprojetct" />
+            <option value="$PROJECT_DIR$/p0041basicviews" />
+            <option value="$PROJECT_DIR$/p0051layoutfiles" />
+            <option value="$PROJECT_DIR$/p0071layoutprop" />
+            <option value="$PROJECT_DIR$/p0081viewbyid" />
+            <option value="$PROJECT_DIR$/p0091clicklistener" />
+            <option value="$PROJECT_DIR$/p0101listeners" />
+            <option value="$PROJECT_DIR$/p0102activitylistener" />
+            <option value="$PROJECT_DIR$/p0111resvalues" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

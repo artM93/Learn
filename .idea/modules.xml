@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/P0061layouts/P0061layouts.iml" filepath="$PROJECT_DIR$/P0061layouts/P0061layouts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test1.iml" filepath="$PROJECT_DIR$/Test1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0031firstprojetct/p0031firstprojetct.iml" filepath="$PROJECT_DIR$/p0031firstprojetct/p0031firstprojetct.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0041basicviews/p0041basicviews.iml" filepath="$PROJECT_DIR$/p0041basicviews/p0041basicviews.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0051layoutfiles/p0051layoutfiles.iml" filepath="$PROJECT_DIR$/p0051layoutfiles/p0051layoutfiles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0071layoutprop/p0071layoutprop.iml" filepath="$PROJECT_DIR$/p0071layoutprop/p0071layoutprop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0081viewbyid/p0081viewbyid.iml" filepath="$PROJECT_DIR$/p0081viewbyid/p0081viewbyid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0091clicklistener/p0091clicklistener.iml" filepath="$PROJECT_DIR$/p0091clicklistener/p0091clicklistener.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0101listeners/p0101listeners.iml" filepath="$PROJECT_DIR$/p0101listeners/p0101listeners.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0102activitylistener/p0102activitylistener.iml" filepath="$PROJECT_DIR$/p0102activitylistener/p0102activitylistener.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0111resvalues/p0111resvalues.iml" filepath="$PROJECT_DIR$/p0111resvalues/p0111resvalues.iml" />
+    </modules>
+  </component>
+</project>
