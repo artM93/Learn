@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
         tvBottom.setText(R.string.tvBottomText);
         btnBottom.setText(R.string.btnBottomText);
 
-        System.out.println("AAAAAAAAA" + getResources().getString(R.string.tvBottomText));
+        System.out.println("AAAA" + getResources().getString(R.string.tvBottomText));
     }
 
     @Override
